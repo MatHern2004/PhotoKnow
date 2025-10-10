@@ -1,0 +1,6 @@
+pyTorch
+transformers
+numpy
+pandas
+pillow
+streamlit
