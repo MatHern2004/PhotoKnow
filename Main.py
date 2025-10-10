@@ -2,7 +2,7 @@ import tkinter as tk
 
 root = tk.Tk()
 
-root.title("Image Captioner")
+root.title("Image Captioner Thing")
 root.geometry("400x300+700+300") 
 
 my_label = tk.Label(root, text="Welcome to our image captioner!")
